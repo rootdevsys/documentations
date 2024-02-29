@@ -38,6 +38,7 @@ Comment utiliser le scanner pour une imprimante Canon MG3600 Series
 - PNG: Image qualité supérieure
 - PDF: Document simple (1 fichier par scan)
 - PDF (Pages multiples): Document complet (1 fichier contenant tout les scans)
+
 ![Select format file](https://media.discordapp.net/attachments/1212428048109010974/1212448657316511794/image.png?ex=65f1dfce&is=65df6ace&hm=3ea19f8e3e7db7b6db8973a82c32b80e90f8c4c4ef6ec656306f8eaaf216393d&=&format=webp&quality=lossless&width=362&height=416)
 
 ## 11. Vous pouvez également choisir un dossier de destination
