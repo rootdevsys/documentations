@@ -45,6 +45,7 @@ Comment utiliser le scanner pour une imprimante Canon MG3600 Series
 Selectionnez un dossier pré-sélectionné
 
 ![Select a pre-selected folder](https://media.discordapp.net/attachments/1212428048109010974/1212445438339457124/image.png?ex=65f1dcce&is=65df67ce&hm=9f34c645ef8125d167148840318cfedcc3952af6127f30d29a4c742507e3e62a&=&format=webp&quality=lossless&width=362&height=416)
+
 Ajoutez un dossier à la liste des dossiers pré-sélectionnés
 
 ![Select your folder](https://media.discordapp.net/attachments/1212428048109010974/1212445438670802964/image.png?ex=65f1dcce&is=65df67ce&hm=4c9c9245ccdbd1962514eb60ca6cd76bf0d7741e7aa459d770879e3b2cec7d5b&=&format=webp&quality=lossless&width=362&height=416)
